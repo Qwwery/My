@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритм Дейкстры.md",
+                "file": "C++/Запуск кода из блокнота на windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Алгоритм Дейкстры"
+              "title": "Запуск кода из блокнота на windows"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -178,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ed172e32cf92463",
+  "active": "751f27fe2e34e706",
   "lastOpenFiles": [
     "Динамическое программирование.md",
     "DFS.md",
